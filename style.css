@@ -162,7 +162,7 @@ h2{
 }
 
 .h2-payment{
-    padding: 400px 0 0 200px;
+    padding: 500px 0 0 300px;
     text-align: center;
     font-family: Arial; 
     font-weight: 700;
@@ -269,7 +269,7 @@ h2{
 }
 
 .ul-payment{
-    padding: 500px 0 100px 50px;
+    padding: 600px 0 100px 100px;
     font-size: 25px;
     font-family: arial;
     color: blue;
@@ -369,5 +369,51 @@ h2{
     padding: 100px 0 0 0 ;
 
 }
+
+
+footer{
+    background: blue;
+    padding: 30px 0;
+    
+    
+}
+
+.footer-content{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+
+}
+
+
+.content-tour{
+    
+    gap: 5px;
+
+
+}
+
+
+
+.content-tour img{
+    width: 445px;
+    height: auto;
+}
+
+.video img{
+    width: 672px;
+    height: auto;
+}
+
+.logo img{
+    width: 350px;
+    height: auto;
+}
+
+
+
+
+
 
 
